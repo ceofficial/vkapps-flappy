@@ -8,23 +8,23 @@ self.__precacheManifest = [
     "url": "/vkapps-flappy/static/js/runtime~main.1289425f.js"
   },
   {
-    "revision": "ff439f0ee4e3ac7a88e2",
-    "url": "/vkapps-flappy/static/js/main.ff439f0e.chunk.js"
+    "revision": "7147da7786066710c1f2",
+    "url": "/vkapps-flappy/static/js/main.7147da77.chunk.js"
   },
   {
-    "revision": "8df0363b7eab98c34d53",
-    "url": "/vkapps-flappy/static/js/1.8df0363b.chunk.js"
+    "revision": "16edcc4ce19f18f3c697",
+    "url": "/vkapps-flappy/static/js/1.16edcc4c.chunk.js"
   },
   {
-    "revision": "ff439f0ee4e3ac7a88e2",
-    "url": "/vkapps-flappy/static/css/main.9de27310.chunk.css"
+    "revision": "7147da7786066710c1f2",
+    "url": "/vkapps-flappy/static/css/main.bdb1948e.chunk.css"
   },
   {
-    "revision": "8df0363b7eab98c34d53",
+    "revision": "16edcc4ce19f18f3c697",
     "url": "/vkapps-flappy/static/css/1.adc77026.chunk.css"
   },
   {
-    "revision": "fcb444e18c09b82f59282a6463aa9f2a",
+    "revision": "d7ea835290299de076a5baa28e3f4ef5",
     "url": "/vkapps-flappy/index.html"
   }
 ];
